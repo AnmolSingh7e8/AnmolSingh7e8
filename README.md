@@ -57,18 +57,6 @@
 
 ---
 
-## 📓 Featured Gists  
-
-<a href="https://gist.github.com/Picuu/d4bb57cb7173edfdf9f74c3f3fe6633a">
-  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=d4bb57cb7173edfdf9f74c3f3fe6633a&bg_color=161b22&border_color=22222288&text_color=bbb" alt="Gist Card" />
-</a>  
-
-<a href="https://gist.github.com/picuu/eed5f72e99bacab9f39a88fb28e91bfd">
-  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=eed5f72e99bacab9f39a88fb28e91bfd&bg_color=161b22&border_color=22222288&text_color=bbb" alt="Gist Card" />
-</a>  
-
----
-
 ## 📧 Contact  
 
 - ✉ Email: [anmolpreet.singh.7e8@itb.cat](mailto:anmolpreet.singh.7e8@itb.cat)  
