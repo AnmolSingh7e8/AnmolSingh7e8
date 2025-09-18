@@ -30,12 +30,10 @@ Hired as a Software Developer Intern at CaixaBank Tech.
 
 ## 📧 Contact with me
 
-- ✉ Email: [contact@carloscapo.com](mailto:contact@carloscapo.com)
+- ✉ Email: [contact@carloscapo.com](mailto:anmolpreet.singh.7e8@itb.cat)
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloscapo)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://carloscapo.com/discord)
-[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@carloscapo.com)
-[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/picuu)
+[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolpreet.singh.7e8@itb.cat)
+[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnmolSingh7e8)
 
 ---
 
