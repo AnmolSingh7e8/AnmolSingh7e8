@@ -10,7 +10,7 @@
   <img align="right" src="https://wakatime.com/badge/user/018d3241-0f81-4d3f-b74f-e65b6da873ea.svg?style=flat-square" alt="Wakatime badge" />
 </a>
 
-> 🧠 Exploring **JavaScript, TypeScript, React, Node.js, Astro, and CSS**  
+> 🧠 Exploring **Java, Python, Spring and React**  
 
 ---
 
