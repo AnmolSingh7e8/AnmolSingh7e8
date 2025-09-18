@@ -1,4 +1,4 @@
-
+ 
 # 👋🏼 Hi, I'm Anmol
 
 <img align="right" src="https://komarev.com/ghpvc/?username=picuu&style=flat-square&color=blue" alt="Visitors badge" />
@@ -10,10 +10,7 @@ Hired as a Software Developer Intern at CaixaBank Tech.
 <a href="https://wakatime.com/@018d3241-0f81-4d3f-b74f-e65b6da873ea">
   <img align="right" src="https://wakatime.com/badge/user/018d3241-0f81-4d3f-b74f-e65b6da873ea.svg?style=flat-square" alt="wakatime badge" />
 </a>
-
-> 
-> 🖥️ See my personal page at [carloscapo.com](https://carloscapo.com)
-> 
+ 
 > 🧠 I'm interessed with JavaScript, TypeScript, React, Node, Astro and CSS.
 
 ## ⚙️ Skills & Technologies
