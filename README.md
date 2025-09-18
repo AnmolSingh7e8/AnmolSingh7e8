@@ -31,11 +31,8 @@ Hired as a Software Developer Intern at CaixaBank Tech.
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 📧 Connect with me
+## 📧 Contact with me
 
-Feel free to reach me via:
-
-- 📫 Discord: [piicuu](https://carloscapo.com/discord)
 - ✉ Email: [contact@carloscapo.com](mailto:contact@carloscapo.com)
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloscapo)
